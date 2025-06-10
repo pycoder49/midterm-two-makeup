@@ -1,6 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
+    background-color: light-blue;
 }
 
 #chat {
@@ -8,6 +9,14 @@ body {
     height: 200px;
     overflow-y: scroll;
     padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+h1 {
+    color: red;
+    text-align: center;
 }
 
 .message {
@@ -15,6 +24,8 @@ body {
     padding: 8px 12px;
     border-radius: 8px;
     word-wrap: break-word;
+    width: fit-content;
+    max-width: 80%;
 }
 
 .user {
@@ -27,4 +38,9 @@ body {
 .bot {
     background: #f0f0f0;
     align-self: flex-start;
+}
+
+p {
+    text-align: center;
+    font-style: italic;
 }
