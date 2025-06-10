@@ -1,6 +1,6 @@
 # midterm-two-makeup
 
-Netlify kept crashing for and would not work. so I'm putting my code here.<br>
+Netlify kept crashing for me and would not work. so I'm putting my code here.<br>
 
 Link to refactored program: https://pycoder49.github.io/midterm-two-makeup/
 <br>
