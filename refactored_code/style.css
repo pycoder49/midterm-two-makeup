@@ -1,3 +1,18 @@
-.message { margin: 5px 0; }
-.user { background: lightblue; text-align: right; }
-.bot { background: lightgray; }
+.message {
+    margin: 5px 0;
+    padding: 8px 12px;
+    border-radius: 8px;
+    word-wrap: break-word;
+}
+
+.user {
+    background: #dce6f1;
+    text-align: right;
+    font-weight: bold;
+    align-self: flex-end;
+}
+
+.bot {
+    background: #f0f0f0;
+    align-self: flex-start;
+}
