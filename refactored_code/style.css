@@ -24,7 +24,6 @@ h1 {
     margin: 5px 0;
     padding: 8px 12px;
     border-radius: 8px;
-    word-wrap: break-word;
     width: fit-content;
     max-width: 80%;
 }
