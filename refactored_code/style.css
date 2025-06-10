@@ -1,1 +1,3 @@
-
+		.message { margin: 5px 0; }
+		.user { background: lightblue; text-align: right; }
+		.bot { background: lightgray; }
